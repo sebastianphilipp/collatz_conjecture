@@ -17,7 +17,7 @@ public class Collatz {
 				while (zahl != 1) {
 					if (zaehler > 500) {
 						System.out.println("More than 500 iterations!");
-						System.exit(0);
+						return;
 					} else {
 						if (zahl % 2 == 0) {
 							zahl /= 2;
