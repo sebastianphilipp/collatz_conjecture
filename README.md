@@ -6,8 +6,8 @@ This Java program calculates the Collatz sequence for a given starting number an
 1. Clone this repository to your local machine.
 2. Compile and run the program with Java:
 ```bash
-javac collatz_conjecture.java
-java collatz_conjecture
+javac Collatz.java
+java Collatz
 ```
 
 3. Enter a positive integer >1 as the starting number when prompted.
