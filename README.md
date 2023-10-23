@@ -12,6 +12,7 @@ java Collatz
 
 3. Enter a positive integer >1 as the starting number when prompted.
 4. The program will calculate the Collatz sequence and stop after 500 iterations or when it reaches 1.
+5. At the end, the program will also display the number of iterations it took.
 
 Note
 This program is designed for educational purposes and serves as a simple demonstration of the Collatz sequence. It may not be optimized for extremely large input values and is not intended for production use.
